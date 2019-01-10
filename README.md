@@ -21,6 +21,10 @@ Key Words: Machine Learning, Fitness, IoT, Wearble
 --Knowledge on setting up AWS Lambda and working with AWS ML, AWS DynamoDB, AWS S3 
 
 
+## Service 
+Flow-Diagram of end-to-end service:
+![alt text](https://github.com/Kvdf/DE4-SIOT-Pathlon/blob/master/SystemGrey.png)
+
 ## Additional Notes 
 
 Additional files s3_transfer.py [s3_transfer](https://github.com/Kvdf/SIOT-DE4-Optimisation---Pathlon/blob/master/s3_transfer.py); soley testing elements of transfering files to s3 as well as putting data in a DynamoDB table)-- can be run on Pycharm or any python environment. 
