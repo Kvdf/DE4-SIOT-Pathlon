@@ -23,4 +23,4 @@ Key Words: Machine Learning, Fitness, IoT, Wearble
 
 ## Additional Notes 
 
-Additional files s3_transfer.py [s3_transfer](); soley testing elements of transfering files to s3 as well as putting data in a DynamoDB table)-- can be run on Pycharm or any python environment. 
+Additional files s3_transfer.py [s3_transfer](https://github.com/Kvdf/SIOT-DE4-Optimisation---Pathlon/blob/master/s3_transfer.py); soley testing elements of transfering files to s3 as well as putting data in a DynamoDB table)-- can be run on Pycharm or any python environment. 
