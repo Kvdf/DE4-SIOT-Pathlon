@@ -59,7 +59,7 @@ EXCEPTION_MESSAGE = "Try this...open pathlon coach!"
 # vactivemin= sheet.cell(6, 11).value
 
 response = ml.predict(
-    MLModelId='ml-QQgKl1iHzix',
+    MLModelId='***',
     Record={
         'DayofWeek' : "Sunday",
         'PreviousDayCalories': str(2060),#str(activitycalories),
