@@ -25,6 +25,11 @@ Key Words: Machine Learning, Fitness, IoT, Wearble
 Flow-Diagram of end-to-end service:
 ![alt text](https://github.com/Kvdf/DE4-SIOT-Pathlon/blob/master/SystemGrey.png)
 
+
+## Data Collected
+
+Data that was collected and used to create and train AWS ML model [fitbit.numbers](https://github.com/Kvdf/DE4-SIOT-Pathlon/blob/master/fitbit.numbers)
+
 ## Additional Notes 
 
 Additional files s3_transfer.py [s3_transfer](https://github.com/Kvdf/SIOT-DE4-Optimisation---Pathlon/blob/master/s3_transfer.py); soley testing elements of transfering files to s3 as well as putting data in a DynamoDB table)-- can be run on Pycharm or any python environment. 
