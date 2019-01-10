@@ -28,7 +28,7 @@ Flow-Diagram of end-to-end service:
 
 ## Data Collected
 
-Data that was collected and used to create and train AWS ML model [fitbit.numbers](https://github.com/Kvdf/DE4-SIOT-Pathlon/blob/master/fitbit.numbers)
+Data that was collected from Fitbit Flex 2 device and Weerlive METEORSERVER API and used to create and train AWS ML model [fitbit.numbers](https://github.com/Kvdf/DE4-SIOT-Pathlon/blob/master/fitbit.numbers)
 
 ## Additional Notes 
 
