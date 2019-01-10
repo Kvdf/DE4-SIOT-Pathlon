@@ -23,7 +23,7 @@ Key Words: Machine Learning, Fitness, IoT, Wearble
 
 ## Service 
 Flow-Diagram of end-to-end service:
-![alt text](https://github.com/Kvdf/DE4-SIOT-Pathlon/blob/master/SystemGrey.png)
+![pathlon - demo](https://github.com/Kvdf/DE4-SIOT-Pathlon/blob/master/SystemGrey.png)
 
 Video:
 ![alt text](https://www.youtube.com/channel/UCfgN3Rk4QDY8QSOWqp4f9Iw)
