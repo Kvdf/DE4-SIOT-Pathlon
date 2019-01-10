@@ -1,4 +1,4 @@
-# -DE4-SIOT---Pathlon
+# DE4-SIOT-Pathlon Coach
 Serverless architecture service system comprised of Alexa, AWS, Meteor weathere API, Fitbit API - actuated through Amazon Alexa. 
 
 
