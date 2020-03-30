@@ -2,9 +2,9 @@
 Serverless architecture service system comprised of Alexa, AWS, Meteor weathere API, Fitbit API - actuated through Amazon Alexa. 
 
 
-Authors:K. vd Fluit (kev15@ic.ac.uk)
+Authors:K. vd Fluit 
 
-This code was used towards a paper outlining an 'Sensing and IoT' project coursework. 
+
 
 ## The Study 
 
@@ -23,16 +23,15 @@ Key Words: Machine Learning, Fitness, IoT, Wearble
 
 ## Service 
 Flow-Diagram of end-to-end service:
-![pathlon - demo](https://github.com/Kvdf/DE4-SIOT-Pathlon/blob/master/SystemGrey.png)
+![pathlon - demo](https://github.com/Kvdf/Pathlon/blob/master/SystemGrey.png)
 
-Video:
-https://www.youtube.com/channel/UCfgN3Rk4QDY8QSOWqp4f9Iw
+
 
 
 ## Data Collected
 
-Data that was collected from Fitbit Flex 2 device and Weerlive METEORSERVER API and used to create and train AWS ML model [fitbit.numbers](https://github.com/Kvdf/DE4-SIOT-Pathlon/blob/master/fitbit.numbers)
+Data that was collected from Fitbit Flex 2 device and Weerlive METEORSERVER API and used to create and train AWS ML model [fitbit.numbers](https://github.com/Kvdf/Pathlon/blob/master/fitbit.numbers)
 
 ## Additional Notes 
 
-Additional files s3_transfer.py [s3_transfer](https://github.com/Kvdf/SIOT-DE4-Optimisation---Pathlon/blob/master/s3_transfer.py); soley testing elements of transfering files to s3 as well as putting data in a DynamoDB table)-- can be run on Pycharm or any python environment. 
+Additional files s3_transfer.py [s3_transfer](https://github.com/Kvdf/Optimisation---Pathlon/blob/master/s3_transfer.py); soley testing elements of transfering files to s3 as well as putting data in a DynamoDB table)-- can be run on Pycharm or any python environment. 
